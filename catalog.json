@@ -3,50 +3,211 @@
   "updatedAt": "2026-10-22",
   "books": [
     {
-      "id": "sutra.diamond.zh-hans",
-      "title": "金刚般若波罗蜜经",
-      "shortTitle": "金刚经",
+      "id": "sutra.diamond.zh-hant",
+      "title": "金剛般若波羅蜜經",
+      "shortTitle": "金剛經",
       "kind": "sutra",
       "version": 1,
-      "status": "preview",
-      "summary": "以三十二分组织的目录预览。正文校勘完成后可直接开放下载。",
-      "source": "待核定公开版本",
+      "status": "available",
+      "summary": "姚秦鳩摩羅什譯，依三十二分整理，支持閱讀、背誦與念誦。",
+      "source": "維基文庫，修訂 2621253，CC BY-SA 4.0",
+      "contentBaseURL": "https://raw.githubusercontent.com/pzdn2009/sutramem-library/main/books/diamond-sutra/",
       "supportsReading": true,
       "supportsMemorization": true,
       "supportsRecitation": true,
       "chapters": [
-        { "id": "chapter-01", "title": "法会因由分第一" },
-        { "id": "chapter-02", "title": "善现启请分第二" },
-        { "id": "chapter-03", "title": "大乘正宗分第三" },
-        { "id": "chapter-04", "title": "妙行无住分第四" },
-        { "id": "chapter-05", "title": "如理实见分第五" },
-        { "id": "chapter-06", "title": "正信希有分第六" },
-        { "id": "chapter-07", "title": "无得无说分第七" },
-        { "id": "chapter-08", "title": "依法出生分第八" },
-        { "id": "chapter-09", "title": "一相无相分第九" },
-        { "id": "chapter-10", "title": "庄严净土分第十" },
-        { "id": "chapter-11", "title": "无为福胜分第十一" },
-        { "id": "chapter-12", "title": "尊重正教分第十二" },
-        { "id": "chapter-13", "title": "如法受持分第十三" },
-        { "id": "chapter-14", "title": "离相寂灭分第十四" },
-        { "id": "chapter-15", "title": "持经功德分第十五" },
-        { "id": "chapter-16", "title": "能净业障分第十六" },
-        { "id": "chapter-17", "title": "究竟无我分第十七" },
-        { "id": "chapter-18", "title": "一体同观分第十八" },
-        { "id": "chapter-19", "title": "法界通化分第十九" },
-        { "id": "chapter-20", "title": "离色离相分第二十" },
-        { "id": "chapter-21", "title": "非说所说分第二十一" },
-        { "id": "chapter-22", "title": "无法可得分第二十二" },
-        { "id": "chapter-23", "title": "净心行善分第二十三" },
-        { "id": "chapter-24", "title": "福智无比分第二十四" },
-        { "id": "chapter-25", "title": "化无所化分第二十五" },
-        { "id": "chapter-26", "title": "法身非相分第二十六" },
-        { "id": "chapter-27", "title": "无断无灭分第二十七" },
-        { "id": "chapter-28", "title": "不受不贪分第二十八" },
-        { "id": "chapter-29", "title": "威仪寂静分第二十九" },
-        { "id": "chapter-30", "title": "一合理相分第三十" },
-        { "id": "chapter-31", "title": "知见不生分第三十一" },
-        { "id": "chapter-32", "title": "应化非真分第三十二" }
+        {
+          "id": "chapter-01",
+          "title": "法會因由分第一",
+          "file": "001.txt",
+          "sha256": "1c80278bbfeb54187617bb8e4cf5826721a15e98b114a7c6feab747f9cb6d0b9"
+        },
+        {
+          "id": "chapter-02",
+          "title": "善現啟請分第二",
+          "file": "002.txt",
+          "sha256": "36fd222d9d8d12e2a9d1af1a1858dcf1564696f5a3d3e31c991f0af5cc04ec83"
+        },
+        {
+          "id": "chapter-03",
+          "title": "大乘正宗分第三",
+          "file": "003.txt",
+          "sha256": "de9bbbeb4cd1bc99c4f37e67673517a5c91b3f7d0fae1302446b375249173057"
+        },
+        {
+          "id": "chapter-04",
+          "title": "妙行無住分第四",
+          "file": "004.txt",
+          "sha256": "34ad5bd1ea6276afa5a8efaa161ba0a442573f5a17cb445fd0adc54b556a680c"
+        },
+        {
+          "id": "chapter-05",
+          "title": "如理實見分第五",
+          "file": "005.txt",
+          "sha256": "1112398832823c262f25be3fe3b26f2f58b024553197f0a4b932f6d02c57b84d"
+        },
+        {
+          "id": "chapter-06",
+          "title": "正信希有分第六",
+          "file": "006.txt",
+          "sha256": "883568d0ee69f096da1b0698e678b0145320612447cf8d659e202fbd2fcef1db"
+        },
+        {
+          "id": "chapter-07",
+          "title": "無得無說分第七",
+          "file": "007.txt",
+          "sha256": "a56c91c0d281df896c7f0d7e9030d8ccc9c5631cd157b4623d6b5a9ccc0d831b"
+        },
+        {
+          "id": "chapter-08",
+          "title": "依法出生分第八",
+          "file": "008.txt",
+          "sha256": "5466905fda132864a02a018b8625b0903be299266b05b4fbdfc06bdefa2862cf"
+        },
+        {
+          "id": "chapter-09",
+          "title": "一相無相分第九",
+          "file": "009.txt",
+          "sha256": "0c8cf5ab148bf0e11b926bab69f99dd296054f4d0e50a907de8eefaae3eafc7b"
+        },
+        {
+          "id": "chapter-10",
+          "title": "莊嚴淨土分第十",
+          "file": "010.txt",
+          "sha256": "fc132ef7379706c00b6c603c1e1116980b167bc738427f33c350c093812fcbda"
+        },
+        {
+          "id": "chapter-11",
+          "title": "無為福勝分第十一",
+          "file": "011.txt",
+          "sha256": "c67c9457361f3ba0e79a5672b61fb8d1fc2d62a87ae75d9089e556c622075e9a"
+        },
+        {
+          "id": "chapter-12",
+          "title": "尊重正教分第十二",
+          "file": "012.txt",
+          "sha256": "db1f01d12d953ce4cbb3868ed084128561c415374563a259e60745ef2c3d48ca"
+        },
+        {
+          "id": "chapter-13",
+          "title": "如法受持分第十三",
+          "file": "013.txt",
+          "sha256": "82df84e57569897cb0ed699ec38bf526f29cc0a25ce5b7571ec7d8dacd3cc789"
+        },
+        {
+          "id": "chapter-14",
+          "title": "離相寂滅分第十四",
+          "file": "014.txt",
+          "sha256": "6a2517847e7e8a9fee005f983bc96cfa8b9230f7e76d6decc733c4b4380d873c"
+        },
+        {
+          "id": "chapter-15",
+          "title": "持經功德分第十五",
+          "file": "015.txt",
+          "sha256": "b44e78694a5a8724b77c84b762615968544fcb93ce41d78c92395d2bac96497e"
+        },
+        {
+          "id": "chapter-16",
+          "title": "能淨業障分第十六",
+          "file": "016.txt",
+          "sha256": "3bab8404d38f63b54b469e1902f954cd38411f5a5cfb4e8a04f124255d9b54f7"
+        },
+        {
+          "id": "chapter-17",
+          "title": "究竟無我分第十七",
+          "file": "017.txt",
+          "sha256": "813e2b60e3f6eb73cdd66e0fb155882b23483744d9173fffd8e8578d01e330b3"
+        },
+        {
+          "id": "chapter-18",
+          "title": "一體同觀分第十八",
+          "file": "018.txt",
+          "sha256": "d5c014b6b917e85e95fc509c33889afb90490fb5c27288af195bc3b026c1f7c1"
+        },
+        {
+          "id": "chapter-19",
+          "title": "法界通化分第十九",
+          "file": "019.txt",
+          "sha256": "b2bc1f300727f9ebdab9b51e21857896622a5a38994f3c197aa006d4223858b2"
+        },
+        {
+          "id": "chapter-20",
+          "title": "離色離相分第二十",
+          "file": "020.txt",
+          "sha256": "4dd35aac51b96877aabdac41aa2301e683cef3094e0a7b9abded6c3bac192763"
+        },
+        {
+          "id": "chapter-21",
+          "title": "非說所說分第二十一",
+          "file": "021.txt",
+          "sha256": "84c37f37fefd80fcaa2572d026c5a79a9f8619c6c71a461873726b918479d86e"
+        },
+        {
+          "id": "chapter-22",
+          "title": "無法可得分第二十二",
+          "file": "022.txt",
+          "sha256": "f4c52781b25c3e6a83661816356d2ac69a271d788d201a754ec9349ca4472b4e"
+        },
+        {
+          "id": "chapter-23",
+          "title": "淨心行善分第二十三",
+          "file": "023.txt",
+          "sha256": "7333e748711e7fccf0183b1e27349ea81265ce349e0bda6260e7c2298f5d39e2"
+        },
+        {
+          "id": "chapter-24",
+          "title": "福智無比分第二十四",
+          "file": "024.txt",
+          "sha256": "5933a0780d58944784fa5f1472c8cbde69d747043ad9b536ffb9dc10fff7117e"
+        },
+        {
+          "id": "chapter-25",
+          "title": "化無所化分第二十五",
+          "file": "025.txt",
+          "sha256": "f10836cdf748486019c01753202f5c621e1d1427442b1b9c4bfae5afdeffcbb2"
+        },
+        {
+          "id": "chapter-26",
+          "title": "法身非相分第二十六",
+          "file": "026.txt",
+          "sha256": "9f7e9f9ee14bfbb5725ab1acabd92ed37f4df9f20034b1e9a18c05b6f23694ce"
+        },
+        {
+          "id": "chapter-27",
+          "title": "無斷無滅分第二十七",
+          "file": "027.txt",
+          "sha256": "36055eac1c1f90bfb37659068913ea2e4511a1f1277987c7540bdcb25600460d"
+        },
+        {
+          "id": "chapter-28",
+          "title": "不受不貪分第二十八",
+          "file": "028.txt",
+          "sha256": "011d4aa7fc03a57ab303541ded12b942977ab89cfc7cf1147e6d9a0ea12c52be"
+        },
+        {
+          "id": "chapter-29",
+          "title": "威儀寂靜分第二十九",
+          "file": "029.txt",
+          "sha256": "37c67b4b44fd317be9c89b45079e96fb1c3a8c646e43ffd0ff63b0d8811656be"
+        },
+        {
+          "id": "chapter-30",
+          "title": "一合理相分第三十",
+          "file": "030.txt",
+          "sha256": "3b891a77ca3e89cc60b2861c8f91ab4b6325b624144c7b5a2bceebff762f3d53"
+        },
+        {
+          "id": "chapter-31",
+          "title": "知見不生分第三十一",
+          "file": "031.txt",
+          "sha256": "89c3baed3d1d0c526247ee0f50885c3c7ddece50ddee16f020c4c178d2a8f130"
+        },
+        {
+          "id": "chapter-32",
+          "title": "應化非真分第三十二",
+          "file": "032.txt",
+          "sha256": "91c4750ca8472dc0a76dd3cb7e997df4a37aa918628d3dd413767ffe0f100fb0"
+        }
       ]
     }
   ]
