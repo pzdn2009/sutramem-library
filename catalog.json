@@ -1,0 +1,53 @@
+{
+  "protocolVersion": 1,
+  "updatedAt": "2026-10-22",
+  "books": [
+    {
+      "id": "sutra.diamond.zh-hans",
+      "title": "金刚般若波罗蜜经",
+      "shortTitle": "金刚经",
+      "kind": "sutra",
+      "version": 1,
+      "status": "preview",
+      "summary": "以三十二分组织的目录预览。正文校勘完成后可直接开放下载。",
+      "source": "待核定公开版本",
+      "supportsReading": true,
+      "supportsMemorization": true,
+      "supportsRecitation": true,
+      "chapters": [
+        { "id": "chapter-01", "title": "法会因由分第一" },
+        { "id": "chapter-02", "title": "善现启请分第二" },
+        { "id": "chapter-03", "title": "大乘正宗分第三" },
+        { "id": "chapter-04", "title": "妙行无住分第四" },
+        { "id": "chapter-05", "title": "如理实见分第五" },
+        { "id": "chapter-06", "title": "正信希有分第六" },
+        { "id": "chapter-07", "title": "无得无说分第七" },
+        { "id": "chapter-08", "title": "依法出生分第八" },
+        { "id": "chapter-09", "title": "一相无相分第九" },
+        { "id": "chapter-10", "title": "庄严净土分第十" },
+        { "id": "chapter-11", "title": "无为福胜分第十一" },
+        { "id": "chapter-12", "title": "尊重正教分第十二" },
+        { "id": "chapter-13", "title": "如法受持分第十三" },
+        { "id": "chapter-14", "title": "离相寂灭分第十四" },
+        { "id": "chapter-15", "title": "持经功德分第十五" },
+        { "id": "chapter-16", "title": "能净业障分第十六" },
+        { "id": "chapter-17", "title": "究竟无我分第十七" },
+        { "id": "chapter-18", "title": "一体同观分第十八" },
+        { "id": "chapter-19", "title": "法界通化分第十九" },
+        { "id": "chapter-20", "title": "离色离相分第二十" },
+        { "id": "chapter-21", "title": "非说所说分第二十一" },
+        { "id": "chapter-22", "title": "无法可得分第二十二" },
+        { "id": "chapter-23", "title": "净心行善分第二十三" },
+        { "id": "chapter-24", "title": "福智无比分第二十四" },
+        { "id": "chapter-25", "title": "化无所化分第二十五" },
+        { "id": "chapter-26", "title": "法身非相分第二十六" },
+        { "id": "chapter-27", "title": "无断无灭分第二十七" },
+        { "id": "chapter-28", "title": "不受不贪分第二十八" },
+        { "id": "chapter-29", "title": "威仪寂静分第二十九" },
+        { "id": "chapter-30", "title": "一合理相分第三十" },
+        { "id": "chapter-31", "title": "知见不生分第三十一" },
+        { "id": "chapter-32", "title": "应化非真分第三十二" }
+      ]
+    }
+  ]
+}
