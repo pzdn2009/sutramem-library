@@ -1,10 +1,10 @@
 # 在线经藏
 
-这个目录和 iOS App 放在同一个仓库中。App 发布后读取：
+这是公开的 SutraMem 内容仓库，并以 Git submodule 的方式嵌入私有 iOS App 仓库。App 读取：
 
-`https://pzdn2009.github.io/foshi-counter-ios/catalog.json`
+`https://raw.githubusercontent.com/pzdn2009/sutramem-library/main/catalog.json`
 
-仓库可以保持私有；发布时只把 `OnlineLibrary` 目录推送到同一仓库的 `gh-pages` 分支。
+新增或修改经典时，在这个仓库提交内容；随后在 App 仓库更新 submodule 指针。
 
 ## 当前范围
 
