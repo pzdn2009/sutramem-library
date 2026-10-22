@@ -2,7 +2,9 @@
 
 这个目录和 iOS App 放在同一个仓库中。App 发布后读取：
 
-`https://raw.githubusercontent.com/pzdn2009/foshi-counter-ios/master/OnlineLibrary/catalog.json`
+`https://pzdn2009.github.io/foshi-counter-ios/catalog.json`
+
+仓库可以保持私有；发布时只把 `OnlineLibrary` 目录推送到同一仓库的 `gh-pages` 分支。
 
 ## 当前范围
 
