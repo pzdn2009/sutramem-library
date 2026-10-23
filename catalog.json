@@ -1,6 +1,6 @@
 {
   "protocolVersion": 1,
-  "updatedAt": "2026-10-22",
+  "updatedAt": "2026-10-23",
   "books": [
     {
       "id": "sutra.diamond.zh-hant",
@@ -207,6 +207,72 @@
           "title": "應化非真分第三十二",
           "file": "032.txt",
           "sha256": "91c4750ca8472dc0a76dd3cb7e997df4a37aa918628d3dd413767ffe0f100fb0"
+        }
+      ]
+    },
+    {
+      "id": "ritual.smoke-offering.simple.zh-hans",
+      "title": "简明烟供仪轨",
+      "shortTitle": "烟供仪轨",
+      "kind": "ritual",
+      "version": 1,
+      "status": "available",
+      "summary": "适合日常使用的烟供修持提纲，包含安全提醒、发心、供养观想与回向；如有师承，应以师授法本为准。",
+      "source": "SutraMem Library 原创整理，CC0 1.0",
+      "contentBaseURL": "https://raw.githubusercontent.com/pzdn2009/sutramem-library/main/books/smoke-offering-simple/",
+      "supportsReading": true,
+      "supportsMemorization": false,
+      "supportsRecitation": true,
+      "chapters": [
+        {
+          "id": "complete-ritual",
+          "title": "完整仪轨",
+          "file": "001.txt",
+          "sha256": "fddab8f047432ac7a868c453daf1fd65f0062094a749a553a16f9a4296b1e139"
+        }
+      ]
+    },
+    {
+      "id": "ritual.lamp-offering.simple.zh-hans",
+      "title": "简明供灯仪轨",
+      "shortTitle": "供灯仪轨",
+      "kind": "ritual",
+      "version": 1,
+      "status": "available",
+      "summary": "日常供灯的简明次第，包含安全提醒、发心、供灯观想和回向。",
+      "source": "SutraMem Library 原创整理，CC0 1.0",
+      "contentBaseURL": "https://raw.githubusercontent.com/pzdn2009/sutramem-library/main/books/lamp-offering-simple/",
+      "supportsReading": true,
+      "supportsMemorization": false,
+      "supportsRecitation": true,
+      "chapters": [
+        {
+          "id": "complete-ritual",
+          "title": "完整仪轨",
+          "file": "001.txt",
+          "sha256": "3baa8ac90f72fcaea6d33464ea78576ca4e29c90737045ebcda1db3413cef4e9"
+        }
+      ]
+    },
+    {
+      "id": "ritual.incense-offering.simple.zh-hans",
+      "title": "简明上香仪轨",
+      "shortTitle": "上香仪轨",
+      "kind": "ritual",
+      "version": 1,
+      "status": "available",
+      "summary": "日常上香的简明次第，也适用于以清水、鲜花或合掌代替燃香的场景。",
+      "source": "SutraMem Library 原创整理，CC0 1.0",
+      "contentBaseURL": "https://raw.githubusercontent.com/pzdn2009/sutramem-library/main/books/incense-offering-simple/",
+      "supportsReading": true,
+      "supportsMemorization": false,
+      "supportsRecitation": true,
+      "chapters": [
+        {
+          "id": "complete-ritual",
+          "title": "完整仪轨",
+          "file": "001.txt",
+          "sha256": "a1d7363bd088252cf4f7db2990228d4475b917f186391836e5e86d7bac7d483e"
         }
       ]
     }
