@@ -31,6 +31,21 @@
       "license": "YouTube",
       "relatedBookID": "shurangama-mantra",
       "version": 1
+    },
+    {
+      "id": "youtube.shurangama.wanfo-city.sea1973goo",
+      "type": "youtube",
+      "title": "万佛城唱诵楞严咒",
+      "subtitle": "繁体·拼音原版",
+      "speaker": "sea1973goo",
+      "duration": 1618,
+      "videoID": "OTxmpHWneHE",
+      "startTime": 0,
+      "externalURL": "https://www.youtube.com/watch?v=OTxmpHWneHE",
+      "thumbnailURL": "https://i.ytimg.com/vi/OTxmpHWneHE/hqdefault.jpg",
+      "license": "YouTube",
+      "relatedBookID": "shurangama-mantra",
+      "version": 1
     }
   ]
 }
