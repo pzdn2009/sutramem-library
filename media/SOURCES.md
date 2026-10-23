@@ -4,3 +4,4 @@
 - **楞严咒 18 遍** — YouTube video published by Great Compassion Bodhi Prajna Temple. It is embedded from YouTube and is not downloaded or redistributed. [Watch on YouTube](https://www.youtube.com/watch?v=5lCTBVWEgk8&t=3128s)
 - **万佛城唱诵楞严咒** — YouTube video published by sea1973goo. It is embedded from YouTube and is not downloaded or redistributed. [Watch on YouTube](https://www.youtube.com/watch?v=OTxmpHWneHE)
 - **文殊菩萨祈请文与心咒** — YouTube video published by Sorrowless State. It is embedded from YouTube and is not downloaded or redistributed. [Watch on YouTube](https://www.youtube.com/watch?v=1UvewDv0X2A)
+- **佛光山梵呗《华严字母》** — YouTube video published by 佛光山梵呗赞颂团－如是我闻. It is embedded from YouTube and is not downloaded or redistributed. [Watch on YouTube](https://www.youtube.com/watch?v=2lZvNk22VFw)

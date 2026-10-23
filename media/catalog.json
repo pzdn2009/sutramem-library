@@ -61,6 +61,21 @@
       "license": "YouTube",
       "relatedBookID": null,
       "version": 1
+    },
+    {
+      "id": "youtube.huayan-syllabary.foguangshan",
+      "type": "youtube",
+      "title": "佛光山梵呗《华严字母》",
+      "subtitle": "四十二字门·起梵腔白：定和尚",
+      "speaker": "佛光山梵呗赞颂团－如是我闻",
+      "duration": 4163,
+      "videoID": "2lZvNk22VFw",
+      "startTime": 0,
+      "externalURL": "https://www.youtube.com/watch?v=2lZvNk22VFw",
+      "thumbnailURL": "https://i.ytimg.com/vi/2lZvNk22VFw/hqdefault.jpg",
+      "license": "YouTube",
+      "relatedBookID": null,
+      "version": 1
     }
   ]
 }
