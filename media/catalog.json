@@ -1,0 +1,20 @@
+{
+  "protocolVersion": 1,
+  "updatedAt": "2026-10-23",
+  "items": [
+    {
+      "id": "audio.heart-sutra.mandarin.peacearth",
+      "title": "摩诃般若波罗蜜多心经",
+      "subtitle": "普通话朗读",
+      "speaker": "Peacearth",
+      "duration": 212,
+      "streamURL": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/%E6%91%A9%E8%A8%B6%E8%88%AC%E8%8B%A5%E6%B3%A2%E7%BE%85%E8%9C%9C%E5%A4%9A%E5%BF%83%E7%B6%93.ogg/%E6%91%A9%E8%A8%B6%E8%88%AC%E8%8B%A5%E6%B3%A2%E7%BE%85%E8%9C%9C%E5%A4%9A%E5%BF%83%E7%B6%93.ogg.mp3",
+      "downloadURL": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/%E6%91%A9%E8%A8%B6%E8%88%AC%E8%8B%A5%E6%B3%A2%E7%BE%85%E8%9C%9C%E5%A4%9A%E5%BF%83%E7%B6%93.ogg/%E6%91%A9%E8%A8%B6%E8%88%AC%E8%8B%A5%E6%B3%A2%E7%BE%85%E8%9C%9C%E5%A4%9A%E5%BF%83%E7%B6%93.ogg.mp3",
+      "sha256": "9fed0453659839a20c7481318880f507ebb66bb09c8a2427ed70ae1c4a9199f7",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:%E6%91%A9%E8%A8%B6%E8%88%AC%E8%8B%A5%E6%B3%A2%E7%BE%85%E8%9C%9C%E5%A4%9A%E5%BF%83%E7%B6%93.ogg",
+      "license": "CC BY-SA 4.0",
+      "relatedBookID": null,
+      "version": 1
+    }
+  ]
+}
