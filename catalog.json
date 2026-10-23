@@ -211,6 +211,82 @@
       ]
     },
     {
+      "id": "sutra.dizang-ten-wheels.zh-hant",
+      "title": "大乘大集地藏十輪經",
+      "shortTitle": "地藏十輪經",
+      "kind": "sutra",
+      "version": 1,
+      "status": "available",
+      "summary": "唐三藏法師玄奘譯，八品十卷；依 CBETA T0411 整理，支持閱讀與逐卷念誦。",
+      "source": "CBETA T0411，2025-03-06，CC BY-NC-SA 4.0",
+      "contentBaseURL": "https://raw.githubusercontent.com/pzdn2009/sutramem-library/main/books/dizang-ten-wheels/",
+      "supportsReading": true,
+      "supportsMemorization": false,
+      "supportsRecitation": true,
+      "chapters": [
+        {
+          "id": "fascicle-01",
+          "title": "卷一·序品第一",
+          "file": "001.txt",
+          "sha256": "2e2430530e979fb0e191a97b4ebffe41ade2c1516dc31a6d8ac227b779b96eab"
+        },
+        {
+          "id": "fascicle-02",
+          "title": "卷二·十輪品第二",
+          "file": "002.txt",
+          "sha256": "7bf51f0882eef726794ec03a822d946bd14f440f9d8c98e8421caf6e4db3a27a"
+        },
+        {
+          "id": "fascicle-03",
+          "title": "卷三·無依行品第三之一",
+          "file": "003.txt",
+          "sha256": "ea451c6205325eab6c48073fdc7b79f004a1e0ecb7fb3d6eb4c0ab53d4986db9"
+        },
+        {
+          "id": "fascicle-04",
+          "title": "卷四·無依行品第三之二",
+          "file": "004.txt",
+          "sha256": "0ff8e955dbf6e3ab6532ce54d28ef357783c990f1a16ccf786a86bd63f4da721"
+        },
+        {
+          "id": "fascicle-05",
+          "title": "卷五·無依行品第三之三、有依行品第四之一",
+          "file": "005.txt",
+          "sha256": "bab2830acd4205c8bb72b815112b616d6eb1ce23ca0ca6608cd5667fb72ff660"
+        },
+        {
+          "id": "fascicle-06",
+          "title": "卷六·有依行品第四之二",
+          "file": "006.txt",
+          "sha256": "6d03aa110c59ad1ae19845284e66155b6f31dc5e311ab236f4c9d9988e710ca7"
+        },
+        {
+          "id": "fascicle-07",
+          "title": "卷七·有依行品第四之三、懺悔品第五",
+          "file": "007.txt",
+          "sha256": "d841fbe10c585641f290c7d70d9a59a5f49ada513c8a8557291ce1b043146b41"
+        },
+        {
+          "id": "fascicle-08",
+          "title": "卷八·善業道品第六之一",
+          "file": "008.txt",
+          "sha256": "67ab7b750c273623ac2e9aa6b2629fc9bc866c18fd7e6bb5da0ac98a5b0dd157"
+        },
+        {
+          "id": "fascicle-09",
+          "title": "卷九·善業道品第六之二、福田相品第七之一",
+          "file": "009.txt",
+          "sha256": "85fd304fc841a94d7899ff07a7d5137a7eb3cd30af41dc51d0e22c91d08bbd68"
+        },
+        {
+          "id": "fascicle-10",
+          "title": "卷十·福田相品第七之二、獲益囑累品第八",
+          "file": "010.txt",
+          "sha256": "1ee9df8f50bc878b047e8b0bc14eb95f433751eaea129c7abc0c433dd99ec2ae"
+        }
+      ]
+    },
+    {
       "id": "ritual.smoke-offering.simple.zh-hans",
       "title": "简明烟供仪轨",
       "shortTitle": "烟供仪轨",

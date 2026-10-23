@@ -13,3 +13,12 @@
 - 来源：SutraMem Library 为本项目原创整理的日常修持提纲，不复刻任何特定寺院或传承法本
 - 说明：烟供提纲明确要求已有师承者以师授法本为准；三篇均包含必要的用火和通风提醒
 - 许可：[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)，可自由使用与修改
+
+## 大乘大集地藏十轮经
+
+- 译者：唐三藏法师玄奘
+- 底本：CBETA 《大正新修大藏经》第 13 册 No. 411（T0411）
+- 整理页面：[禅心学苑·汉文大藏经](https://tripitaka.zensoul.org/T/T0411/1)
+- 版本日期：2025-03-06
+- 整理：保留 CBETA 正文与十卷边界，移除校勘脚注编号、大正藏行号与网页导航
+- 许可：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)，非商业使用，署名并以相同方式共享
