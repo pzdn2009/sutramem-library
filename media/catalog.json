@@ -4,6 +4,7 @@
   "items": [
     {
       "id": "audio.heart-sutra.mandarin.peacearth",
+      "type": "direct",
       "title": "摩诃般若波罗蜜多心经",
       "subtitle": "普通话朗读",
       "speaker": "Peacearth",
@@ -14,6 +15,21 @@
       "sourcePage": "https://commons.wikimedia.org/wiki/File:%E6%91%A9%E8%A8%B6%E8%88%AC%E8%8B%A5%E6%B3%A2%E7%BE%85%E8%9C%9C%E5%A4%9A%E5%BF%83%E7%B6%93.ogg",
       "license": "CC BY-SA 4.0",
       "relatedBookID": null,
+      "version": 1
+    },
+    {
+      "id": "youtube.shurangama.18x.gcbp-temple",
+      "type": "youtube",
+      "title": "楞严咒 18 遍",
+      "subtitle": "拼音易背诵·两小时念诵",
+      "speaker": "大悲菩提寺",
+      "duration": 7200,
+      "videoID": "5lCTBVWEgk8",
+      "startTime": 3128,
+      "externalURL": "https://www.youtube.com/watch?v=5lCTBVWEgk8&t=3128s",
+      "thumbnailURL": "https://i.ytimg.com/vi/5lCTBVWEgk8/hqdefault.jpg",
+      "license": "YouTube",
+      "relatedBookID": "shurangama-mantra",
       "version": 1
     }
   ]
