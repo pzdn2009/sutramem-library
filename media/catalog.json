@@ -46,6 +46,21 @@
       "license": "YouTube",
       "relatedBookID": "shurangama-mantra",
       "version": 1
+    },
+    {
+      "id": "youtube.manjushri.prayer-mantra.sorrowless-state",
+      "type": "youtube",
+      "title": "文殊菩萨祈请文与心咒",
+      "subtitle": "祈求颂·陀罗尼·莫尔根唱诵",
+      "speaker": "Sorrowless State",
+      "duration": 940,
+      "videoID": "1UvewDv0X2A",
+      "startTime": 0,
+      "externalURL": "https://www.youtube.com/watch?v=1UvewDv0X2A",
+      "thumbnailURL": "https://i.ytimg.com/vi/1UvewDv0X2A/hqdefault.jpg",
+      "license": "YouTube",
+      "relatedBookID": null,
+      "version": 1
     }
   ]
 }
