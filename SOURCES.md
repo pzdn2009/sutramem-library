@@ -1,24 +1,14 @@
 # 文本来源
 
-## 金剛般若波羅蜜經
+## 楞嚴咒
 
-- 译者：姚秦三藏法师鸠摩罗什
-- 底本：[维基文库《金剛般若波羅蜜經（鳩摩羅什）》](https://zh.wikisource.org/wiki/金剛般若波羅蜜經_(鳩摩羅什))
-- 采用修订：`2621253`（2025-11-22）
-- 整理：保留三十二分正文，移除网页说明、图片、外部链接及标题释义；按标点重新分句
-- 许可：原始古籍属于公有领域；维基文库整理文本依 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 使用
+- 正文底本：[維基文庫《楞嚴經／楞嚴神咒》](https://zh.wikisource.org/zh-hant/楞嚴經/楞嚴神咒)，按流通本整理为五会
+- 校勘参考：[CBETA T19n0945](https://github.com/DILA-edu/CBETA-txt/tree/master/T-wPunction/T0945)
+- 注音参考：[佛弟子文库普通话注音版](https://fodizi.net/fojing/23/7212.html)，由项目逐字核对并转换为 SutraMem 内联注音
+- 说明：保留梵音汉字流通写法，不将咒语正文自动改写为现代汉语读音
 
 ## 简明烟供仪轨、简明供灯仪轨、简明上香仪轨
 
 - 来源：SutraMem Library 为本项目原创整理的日常修持提纲，不复刻任何特定寺院或传承法本
 - 说明：烟供提纲明确要求已有师承者以师授法本为准；三篇均包含必要的用火和通风提醒
 - 许可：[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)，可自由使用与修改
-
-## 大乘大集地藏十轮经
-
-- 译者：唐三藏法师玄奘
-- 底本：CBETA 《大正新修大藏经》第 13 册 No. 411（T0411）
-- 整理页面：[禅心学苑·汉文大藏经](https://tripitaka.zensoul.org/T/T0411/1)
-- 版本日期：2025-03-06
-- 整理：保留 CBETA 正文与十卷边界，移除校勘脚注编号、大正藏行号与网页导航
-- 许可：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)，非商业使用，署名并以相同方式共享

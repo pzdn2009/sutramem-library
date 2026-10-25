@@ -1,288 +1,50 @@
 {
   "protocolVersion": 1,
-  "updatedAt": "2026-10-23",
+  "updatedAt": "2026-10-25",
   "books": [
     {
-      "id": "sutra.diamond.zh-hant",
-      "title": "金剛般若波羅蜜經",
-      "shortTitle": "金剛經",
-      "kind": "sutra",
+      "id": "mantra.shurangama.zh-hant",
+      "title": "楞嚴咒",
+      "shortTitle": "楞嚴咒",
+      "kind": "mantra",
       "version": 1,
       "status": "available",
-      "summary": "姚秦鳩摩羅什譯，依三十二分整理，支持閱讀、背誦與念誦。",
-      "source": "維基文庫，修訂 2621253，CC BY-SA 4.0",
-      "contentBaseURL": "https://raw.githubusercontent.com/pzdn2009/sutramem-library/main/books/diamond-sutra/",
+      "summary": "五會流通本，保留逐字普通話注音；下載後可閱讀、背誦與念誦，也可繼續使用本地全局發音規則。",
+      "source": "維基文庫流通本，與 CBETA T19n0945 核對；普通話注音由項目整理",
+      "contentBaseURL": "https://raw.githubusercontent.com/pzdn2009/sutramem-library/main/books/shurangama-mantra/",
       "supportsReading": true,
       "supportsMemorization": true,
       "supportsRecitation": true,
       "chapters": [
         {
-          "id": "chapter-01",
-          "title": "法會因由分第一",
+          "id": "第一会",
+          "title": "第一會",
           "file": "001.txt",
-          "sha256": "1c80278bbfeb54187617bb8e4cf5826721a15e98b114a7c6feab747f9cb6d0b9"
+          "sha256": "63459c92226d7fa089f2c01f7f44fd2b8834b801ea0981b28945c64687a20d10"
         },
         {
-          "id": "chapter-02",
-          "title": "善現啟請分第二",
+          "id": "第二会",
+          "title": "第二會",
           "file": "002.txt",
-          "sha256": "36fd222d9d8d12e2a9d1af1a1858dcf1564696f5a3d3e31c991f0af5cc04ec83"
+          "sha256": "ed274eb737a53011dd8413c26805cc43b1fd1befbfdaa065205f2b012513928f"
         },
         {
-          "id": "chapter-03",
-          "title": "大乘正宗分第三",
+          "id": "第三会",
+          "title": "第三會",
           "file": "003.txt",
-          "sha256": "de9bbbeb4cd1bc99c4f37e67673517a5c91b3f7d0fae1302446b375249173057"
+          "sha256": "d794f55ae263a12311f52760ffa267267c8c3ab092e5cf1b38f64429d4c86b24"
         },
         {
-          "id": "chapter-04",
-          "title": "妙行無住分第四",
+          "id": "第四会",
+          "title": "第四會",
           "file": "004.txt",
-          "sha256": "34ad5bd1ea6276afa5a8efaa161ba0a442573f5a17cb445fd0adc54b556a680c"
+          "sha256": "0dd5e072a7c1460b435f11198be645f758d1eb76efc326b9ff1e6897d1d7d275"
         },
         {
-          "id": "chapter-05",
-          "title": "如理實見分第五",
+          "id": "第五会",
+          "title": "第五會",
           "file": "005.txt",
-          "sha256": "1112398832823c262f25be3fe3b26f2f58b024553197f0a4b932f6d02c57b84d"
-        },
-        {
-          "id": "chapter-06",
-          "title": "正信希有分第六",
-          "file": "006.txt",
-          "sha256": "883568d0ee69f096da1b0698e678b0145320612447cf8d659e202fbd2fcef1db"
-        },
-        {
-          "id": "chapter-07",
-          "title": "無得無說分第七",
-          "file": "007.txt",
-          "sha256": "a56c91c0d281df896c7f0d7e9030d8ccc9c5631cd157b4623d6b5a9ccc0d831b"
-        },
-        {
-          "id": "chapter-08",
-          "title": "依法出生分第八",
-          "file": "008.txt",
-          "sha256": "5466905fda132864a02a018b8625b0903be299266b05b4fbdfc06bdefa2862cf"
-        },
-        {
-          "id": "chapter-09",
-          "title": "一相無相分第九",
-          "file": "009.txt",
-          "sha256": "0c8cf5ab148bf0e11b926bab69f99dd296054f4d0e50a907de8eefaae3eafc7b"
-        },
-        {
-          "id": "chapter-10",
-          "title": "莊嚴淨土分第十",
-          "file": "010.txt",
-          "sha256": "fc132ef7379706c00b6c603c1e1116980b167bc738427f33c350c093812fcbda"
-        },
-        {
-          "id": "chapter-11",
-          "title": "無為福勝分第十一",
-          "file": "011.txt",
-          "sha256": "c67c9457361f3ba0e79a5672b61fb8d1fc2d62a87ae75d9089e556c622075e9a"
-        },
-        {
-          "id": "chapter-12",
-          "title": "尊重正教分第十二",
-          "file": "012.txt",
-          "sha256": "db1f01d12d953ce4cbb3868ed084128561c415374563a259e60745ef2c3d48ca"
-        },
-        {
-          "id": "chapter-13",
-          "title": "如法受持分第十三",
-          "file": "013.txt",
-          "sha256": "82df84e57569897cb0ed699ec38bf526f29cc0a25ce5b7571ec7d8dacd3cc789"
-        },
-        {
-          "id": "chapter-14",
-          "title": "離相寂滅分第十四",
-          "file": "014.txt",
-          "sha256": "6a2517847e7e8a9fee005f983bc96cfa8b9230f7e76d6decc733c4b4380d873c"
-        },
-        {
-          "id": "chapter-15",
-          "title": "持經功德分第十五",
-          "file": "015.txt",
-          "sha256": "b44e78694a5a8724b77c84b762615968544fcb93ce41d78c92395d2bac96497e"
-        },
-        {
-          "id": "chapter-16",
-          "title": "能淨業障分第十六",
-          "file": "016.txt",
-          "sha256": "3bab8404d38f63b54b469e1902f954cd38411f5a5cfb4e8a04f124255d9b54f7"
-        },
-        {
-          "id": "chapter-17",
-          "title": "究竟無我分第十七",
-          "file": "017.txt",
-          "sha256": "813e2b60e3f6eb73cdd66e0fb155882b23483744d9173fffd8e8578d01e330b3"
-        },
-        {
-          "id": "chapter-18",
-          "title": "一體同觀分第十八",
-          "file": "018.txt",
-          "sha256": "d5c014b6b917e85e95fc509c33889afb90490fb5c27288af195bc3b026c1f7c1"
-        },
-        {
-          "id": "chapter-19",
-          "title": "法界通化分第十九",
-          "file": "019.txt",
-          "sha256": "b2bc1f300727f9ebdab9b51e21857896622a5a38994f3c197aa006d4223858b2"
-        },
-        {
-          "id": "chapter-20",
-          "title": "離色離相分第二十",
-          "file": "020.txt",
-          "sha256": "4dd35aac51b96877aabdac41aa2301e683cef3094e0a7b9abded6c3bac192763"
-        },
-        {
-          "id": "chapter-21",
-          "title": "非說所說分第二十一",
-          "file": "021.txt",
-          "sha256": "84c37f37fefd80fcaa2572d026c5a79a9f8619c6c71a461873726b918479d86e"
-        },
-        {
-          "id": "chapter-22",
-          "title": "無法可得分第二十二",
-          "file": "022.txt",
-          "sha256": "f4c52781b25c3e6a83661816356d2ac69a271d788d201a754ec9349ca4472b4e"
-        },
-        {
-          "id": "chapter-23",
-          "title": "淨心行善分第二十三",
-          "file": "023.txt",
-          "sha256": "7333e748711e7fccf0183b1e27349ea81265ce349e0bda6260e7c2298f5d39e2"
-        },
-        {
-          "id": "chapter-24",
-          "title": "福智無比分第二十四",
-          "file": "024.txt",
-          "sha256": "5933a0780d58944784fa5f1472c8cbde69d747043ad9b536ffb9dc10fff7117e"
-        },
-        {
-          "id": "chapter-25",
-          "title": "化無所化分第二十五",
-          "file": "025.txt",
-          "sha256": "f10836cdf748486019c01753202f5c621e1d1427442b1b9c4bfae5afdeffcbb2"
-        },
-        {
-          "id": "chapter-26",
-          "title": "法身非相分第二十六",
-          "file": "026.txt",
-          "sha256": "9f7e9f9ee14bfbb5725ab1acabd92ed37f4df9f20034b1e9a18c05b6f23694ce"
-        },
-        {
-          "id": "chapter-27",
-          "title": "無斷無滅分第二十七",
-          "file": "027.txt",
-          "sha256": "36055eac1c1f90bfb37659068913ea2e4511a1f1277987c7540bdcb25600460d"
-        },
-        {
-          "id": "chapter-28",
-          "title": "不受不貪分第二十八",
-          "file": "028.txt",
-          "sha256": "011d4aa7fc03a57ab303541ded12b942977ab89cfc7cf1147e6d9a0ea12c52be"
-        },
-        {
-          "id": "chapter-29",
-          "title": "威儀寂靜分第二十九",
-          "file": "029.txt",
-          "sha256": "37c67b4b44fd317be9c89b45079e96fb1c3a8c646e43ffd0ff63b0d8811656be"
-        },
-        {
-          "id": "chapter-30",
-          "title": "一合理相分第三十",
-          "file": "030.txt",
-          "sha256": "3b891a77ca3e89cc60b2861c8f91ab4b6325b624144c7b5a2bceebff762f3d53"
-        },
-        {
-          "id": "chapter-31",
-          "title": "知見不生分第三十一",
-          "file": "031.txt",
-          "sha256": "89c3baed3d1d0c526247ee0f50885c3c7ddece50ddee16f020c4c178d2a8f130"
-        },
-        {
-          "id": "chapter-32",
-          "title": "應化非真分第三十二",
-          "file": "032.txt",
-          "sha256": "91c4750ca8472dc0a76dd3cb7e997df4a37aa918628d3dd413767ffe0f100fb0"
-        }
-      ]
-    },
-    {
-      "id": "sutra.dizang-ten-wheels.zh-hant",
-      "title": "大乘大集地藏十輪經",
-      "shortTitle": "地藏十輪經",
-      "kind": "sutra",
-      "version": 1,
-      "status": "available",
-      "summary": "唐三藏法師玄奘譯，八品十卷；依 CBETA T0411 整理，支持閱讀與逐卷念誦。",
-      "source": "CBETA T0411，2025-03-06，CC BY-NC-SA 4.0",
-      "contentBaseURL": "https://raw.githubusercontent.com/pzdn2009/sutramem-library/main/books/dizang-ten-wheels/",
-      "supportsReading": true,
-      "supportsMemorization": false,
-      "supportsRecitation": true,
-      "chapters": [
-        {
-          "id": "fascicle-01",
-          "title": "卷一·序品第一",
-          "file": "001.txt",
-          "sha256": "2e2430530e979fb0e191a97b4ebffe41ade2c1516dc31a6d8ac227b779b96eab"
-        },
-        {
-          "id": "fascicle-02",
-          "title": "卷二·十輪品第二",
-          "file": "002.txt",
-          "sha256": "7bf51f0882eef726794ec03a822d946bd14f440f9d8c98e8421caf6e4db3a27a"
-        },
-        {
-          "id": "fascicle-03",
-          "title": "卷三·無依行品第三之一",
-          "file": "003.txt",
-          "sha256": "ea451c6205325eab6c48073fdc7b79f004a1e0ecb7fb3d6eb4c0ab53d4986db9"
-        },
-        {
-          "id": "fascicle-04",
-          "title": "卷四·無依行品第三之二",
-          "file": "004.txt",
-          "sha256": "0ff8e955dbf6e3ab6532ce54d28ef357783c990f1a16ccf786a86bd63f4da721"
-        },
-        {
-          "id": "fascicle-05",
-          "title": "卷五·無依行品第三之三、有依行品第四之一",
-          "file": "005.txt",
-          "sha256": "bab2830acd4205c8bb72b815112b616d6eb1ce23ca0ca6608cd5667fb72ff660"
-        },
-        {
-          "id": "fascicle-06",
-          "title": "卷六·有依行品第四之二",
-          "file": "006.txt",
-          "sha256": "6d03aa110c59ad1ae19845284e66155b6f31dc5e311ab236f4c9d9988e710ca7"
-        },
-        {
-          "id": "fascicle-07",
-          "title": "卷七·有依行品第四之三、懺悔品第五",
-          "file": "007.txt",
-          "sha256": "d841fbe10c585641f290c7d70d9a59a5f49ada513c8a8557291ce1b043146b41"
-        },
-        {
-          "id": "fascicle-08",
-          "title": "卷八·善業道品第六之一",
-          "file": "008.txt",
-          "sha256": "67ab7b750c273623ac2e9aa6b2629fc9bc866c18fd7e6bb5da0ac98a5b0dd157"
-        },
-        {
-          "id": "fascicle-09",
-          "title": "卷九·善業道品第六之二、福田相品第七之一",
-          "file": "009.txt",
-          "sha256": "85fd304fc841a94d7899ff07a7d5137a7eb3cd30af41dc51d0e22c91d08bbd68"
-        },
-        {
-          "id": "fascicle-10",
-          "title": "卷十·福田相品第七之二、獲益囑累品第八",
-          "file": "010.txt",
-          "sha256": "1ee9df8f50bc878b047e8b0bc14eb95f433751eaea129c7abc0c433dd99ec2ae"
+          "sha256": "31eca9840c5737b0fbba7a1b1b1ce407ecaac6e252b0682dcec1001343dba961"
         }
       ]
     },
