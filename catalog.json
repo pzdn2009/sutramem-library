@@ -54,10 +54,10 @@
       "shortTitle": "佛事烟供",
       "kind": "sutra",
       "category": "ritual",
-      "version": 3,
+      "version": 4,
       "status": "available",
       "summary": "用户提供的公开 PDF 版本，依次收录忏悔、供养与回向。",
-      "source": "原文：https://github.com/pzdn2009/sutramem-library/blob/main/sources/佛事烟供仪轨V2.pdf",
+      "source": "用户提供的公开 PDF《佛事烟供仪轨 V2》",
       "contentBaseURL": "https://raw.githubusercontent.com/pzdn2009/sutramem-library/main/books/smoke-offering-simple/",
       "supportsReading": true,
       "supportsMemorization": false,
@@ -67,7 +67,7 @@
           "id": "complete-ritual",
           "title": "佛事烟供仪轨 V2",
           "file": "001.txt",
-          "sha256": "98f5ab6ae6196712bc7532ef9f769df79d6a27b9d4b0e0fbaba46188ab58632d"
+          "sha256": "b5391b366bb5b7db81e283da982fc2db45d7380d319f18435d998cbc8966b982"
         }
       ]
     },
@@ -77,10 +77,10 @@
       "shortTitle": "海涛法师烟供",
       "kind": "sutra",
       "category": "ritual",
-      "version": 1,
+      "version": 2,
       "status": "available",
       "summary": "海涛法师开示的在家烟供仪轨，包含请圣、发心、心经、咒语、愿文与回向。",
-      "source": "原文：https://fodizi.net/haitaofashi/21056.html",
+      "source": "佛弟子文库《在家居士简易又有效的烟供仪轨》，海涛法师",
       "contentBaseURL": "https://raw.githubusercontent.com/pzdn2009/sutramem-library/main/books/smoke-offering-haitao/",
       "supportsReading": true,
       "supportsMemorization": false,
@@ -90,53 +90,7 @@
           "id": "complete-ritual",
           "title": "完整仪轨",
           "file": "001.txt",
-          "sha256": "68606d8ff5711a40287758799c04480d4adacf5a743f54dccd8d417d1817d532"
-        }
-      ]
-    },
-    {
-      "id": "ritual.lamp-offering.simple.zh-hans",
-      "title": "简明供灯仪轨",
-      "shortTitle": "供灯仪轨",
-      "kind": "sutra",
-      "category": "ritual",
-      "version": 2,
-      "status": "available",
-      "summary": "日常供灯的简明次第，包含安全提醒、发心、供灯观想和回向。",
-      "source": "SutraMem Library 原创整理，CC0 1.0",
-      "contentBaseURL": "https://raw.githubusercontent.com/pzdn2009/sutramem-library/main/books/lamp-offering-simple/",
-      "supportsReading": true,
-      "supportsMemorization": false,
-      "supportsRecitation": true,
-      "chapters": [
-        {
-          "id": "complete-ritual",
-          "title": "完整仪轨",
-          "file": "001.txt",
-          "sha256": "3baa8ac90f72fcaea6d33464ea78576ca4e29c90737045ebcda1db3413cef4e9"
-        }
-      ]
-    },
-    {
-      "id": "ritual.incense-offering.simple.zh-hans",
-      "title": "简明上香仪轨",
-      "shortTitle": "上香仪轨",
-      "kind": "sutra",
-      "category": "ritual",
-      "version": 2,
-      "status": "available",
-      "summary": "日常上香的简明次第，也适用于以清水、鲜花或合掌代替燃香的场景。",
-      "source": "SutraMem Library 原创整理，CC0 1.0",
-      "contentBaseURL": "https://raw.githubusercontent.com/pzdn2009/sutramem-library/main/books/incense-offering-simple/",
-      "supportsReading": true,
-      "supportsMemorization": false,
-      "supportsRecitation": true,
-      "chapters": [
-        {
-          "id": "complete-ritual",
-          "title": "完整仪轨",
-          "file": "001.txt",
-          "sha256": "a1d7363bd088252cf4f7db2990228d4475b917f186391836e5e86d7bac7d483e"
+          "sha256": "eabb0e05fab9d85e0615d569c395851f30269fd1b11b973f737c733a516678ef"
         }
       ]
     }
