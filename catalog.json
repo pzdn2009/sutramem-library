@@ -1,6 +1,6 @@
 {
   "protocolVersion": 1,
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-31",
   "books": [
     {
       "id": "mantra.shurangama.zh-hant",
@@ -50,15 +50,38 @@
     },
     {
       "id": "ritual.smoke-offering.simple.zh-hans",
-      "title": "简明烟供仪轨",
-      "shortTitle": "烟供仪轨",
+      "title": "佛事烟供仪轨 V2",
+      "shortTitle": "佛事烟供",
       "kind": "sutra",
       "category": "ritual",
-      "version": 2,
+      "version": 3,
       "status": "available",
-      "summary": "适合日常使用的烟供修持提纲，包含安全提醒、发心、供养观想与回向；如有师承，应以师授法本为准。",
-      "source": "SutraMem Library 原创整理，CC0 1.0",
+      "summary": "用户提供的公开 PDF 版本，依次收录忏悔、供养与回向。",
+      "source": "原文：https://github.com/pzdn2009/sutramem-library/blob/main/sources/佛事烟供仪轨V2.pdf",
       "contentBaseURL": "https://raw.githubusercontent.com/pzdn2009/sutramem-library/main/books/smoke-offering-simple/",
+      "supportsReading": true,
+      "supportsMemorization": false,
+      "supportsRecitation": true,
+      "chapters": [
+        {
+          "id": "complete-ritual",
+          "title": "佛事烟供仪轨 V2",
+          "file": "001.txt",
+          "sha256": "98f5ab6ae6196712bc7532ef9f769df79d6a27b9d4b0e0fbaba46188ab58632d"
+        }
+      ]
+    },
+    {
+      "id": "ritual.smoke-offering.haitao.zh-hans",
+      "title": "在家居士简易又有效的烟供仪轨",
+      "shortTitle": "海涛法师烟供",
+      "kind": "sutra",
+      "category": "ritual",
+      "version": 1,
+      "status": "available",
+      "summary": "海涛法师开示的在家烟供仪轨，包含请圣、发心、心经、咒语、愿文与回向。",
+      "source": "原文：https://fodizi.net/haitaofashi/21056.html",
+      "contentBaseURL": "https://raw.githubusercontent.com/pzdn2009/sutramem-library/main/books/smoke-offering-haitao/",
       "supportsReading": true,
       "supportsMemorization": false,
       "supportsRecitation": true,
@@ -67,7 +90,7 @@
           "id": "complete-ritual",
           "title": "完整仪轨",
           "file": "001.txt",
-          "sha256": "fddab8f047432ac7a868c453daf1fd65f0062094a749a553a16f9a4296b1e139"
+          "sha256": "68606d8ff5711a40287758799c04480d4adacf5a743f54dccd8d417d1817d532"
         }
       ]
     },
